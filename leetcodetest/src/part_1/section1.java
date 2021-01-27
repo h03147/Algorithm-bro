@@ -81,12 +81,22 @@ public class section1 {
 //        int[] nums = {1, 2, 3, 4};
 //        System.out.println(maximumProduct(nums));
 
-        // 1128
-        int[][] dominoes ={{1, 2}, {2, 1}, {3, 4}, {5, 6}};
-        System.out.println(numEquivDominoPairs(dominoes));
+//        // 1128
+//        int[][] dominoes ={{1, 2}, {2, 1}, {3, 4}, {5, 6}};
+//        System.out.println(numEquivDominoPairs(dominoes));
+
+        // quickSort test
+        int[] array = {7, 4, 9, 3, 2, 1, 8, 6, 5, 10};
+        long startTime = System.currentTimeMillis();
+        quickSort(array, 0, array.length - 1);
+        long endTime = System.currentTimeMillis();
+        System.out.println("process run time: " + (endTime - startTime) + "ms");
 
 
     }
+
+
+
 
     // 给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1。
     private static int finds2c(String s) {
@@ -667,6 +677,40 @@ public class section1 {
             answer += arr[0] < arr[1] ? copy[arr[0] * 10 + arr[1]]++ : copy[arr[1] * 10 + arr[0]]++;
         }
         return answer;
+    }
+
+    // quicksort test
+    public static void quickSort(int array[], int left, int right) {
+        if(left < right) {
+            int key = array[left];
+            int i = left;
+            int j = right;
+            while(i < j) {
+                // 从右向左找到第一个不大于基准值（key）的元素
+                while( i < j && array[j] >= key) {
+                    j--;
+                }
+                if(i < j) {
+                    array[i] = array[j];
+                }
+                // 从左向右找到第一个不小于基准值（key）的元素
+                while(i < j && array[i] <= key) {
+                    i++;
+                }
+                if(i < j) {
+                    array[j] = array[i];
+                }
+            }
+            array[i] = key;
+            for(int item : array) {
+                System.out.print(item + " ");
+            }
+            System.out.println();
+
+            // 对基准元素分治后左右分组分别再进行递归
+            quickSort(array, left, i - 1);
+            quickSort(array, i + 1, right);
+        }
     }
 
 }
