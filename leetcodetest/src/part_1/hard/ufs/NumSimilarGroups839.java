@@ -3,7 +3,7 @@ package part_1.hard.ufs;
 /**
  * description: 839. 相似字符串组
  */
-public class numSimilarGroups839 {
+public class NumSimilarGroups839 {
     private static int[] parent839;
 
     public static void main(String[] args) {
