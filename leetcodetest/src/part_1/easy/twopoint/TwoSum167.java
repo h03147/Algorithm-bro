@@ -1,4 +1,4 @@
-package part_1.easy.array;
+package part_1.easy.twopoint;
 
 public class TwoSum167 {
 
