@@ -1,4 +1,4 @@
-package part_1.medium.array;
+package part_1.medium.twopoint;
 
 public class JudgeSquareSum633 {
 
