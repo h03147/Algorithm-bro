@@ -691,7 +691,7 @@ public class section1 {
     }
 
     // quicksort test
-    public static void quickSort(int array[], int left, int right) {
+    public static void quickSort(int[] array, int left, int right) {
         if(left < right) {
             int key = array[left];
             int i = left;
