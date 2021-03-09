@@ -24,3 +24,7 @@ all strive for the early realization of financial freedom.
 - [数学 | math](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
 - [分治 | sort](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
 - [双指针 | twopoint](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
+
+<br>
+
+## :memo: 中等(medium)
