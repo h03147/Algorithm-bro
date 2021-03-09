@@ -7,6 +7,8 @@ all strive for the early realization of financial freedom.
 
 # 题目目录(src)
 
+<br>
+目录中英文对照(Language reference table)
 | 简单题&nbsp; | 中等题 | 困难题&nbsp;|
 | :----: | :----: | :---: |
 | esay | medium | hard |
