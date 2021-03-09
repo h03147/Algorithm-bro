@@ -30,23 +30,23 @@ all strive for the early realization of financial freedom.
 ## :memo: 中等(medium)
 
 - [数组 | array](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/array)
-- [回溯 | backtracking](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
-- [广度优先遍历 | bfs](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [二分搜索 | binarysearch](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [深度优先遍历 | dfs](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [分治 | divideandconquer](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [贪心算法 | greddyalgorithm](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [排序 | sort](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [双指针 | twopoint](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [并查集 | ufs](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
+- [回溯 | backtracking](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/backtracking)
+- [广度优先遍历 | bfs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/bfs)
+- [二分搜索 | binarysearch](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/binarysearch)
+- [深度优先遍历 | dfs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/dfs)
+- [分治 | divideandconquer](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/divideandconquer)
+- [贪心算法 | greddyalgorithm](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/greedyalgorithm)
+- [排序 | sort](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/sort)
+- [双指针 | twopoint](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/twopoint)
+- [并查集 | ufs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/ufs)
 
 <br>
 
 ## :watermelon: 困难(hard) 
 
-- [广度优先遍历 | bfs](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码可读性.md)
-- [队列 | queue](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码风格规范.md)
-- [并查集 | ufs](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
+- [广度优先遍历 | bfs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/bfs)
+- [队列 | queue](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/queue)
+- [并查集 | ufs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/ufs)
 
 <br>
 
