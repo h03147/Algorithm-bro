@@ -39,3 +39,11 @@ all strive for the early realization of financial freedom.
 - [排序 | sort](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
 - [双指针 | twopoint](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
 - [并查集 | ufs](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
+
+<br>
+
+## :watermelon: 困难(hard) 
+
+- [广度优先遍历 | bfs](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码可读性.md)
+- [队列 | queue](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码风格规范.md)
+- [并查集 | ufs](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
