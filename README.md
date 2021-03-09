@@ -7,7 +7,7 @@ all strive for the early realization of financial freedom.
 
 # 题目目录(src)
 
-| 简单题&nbsp; | 操作系统 | 网络&nbsp;|
+| 简单题&nbsp; | 中等题 | 困难题&nbsp;|
 | :----: | :----: | :---: |
 | esay | medium | hard |
 
