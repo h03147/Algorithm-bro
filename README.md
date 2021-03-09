@@ -15,21 +15,21 @@ all strive for the early realization of financial freedom.
 
 ## :pencil2: 简单(easy)
 
-- [数组 | array](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
-- [数组列表 | arraylist](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
-- [回溯 | backtracking](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [二分搜索 | binarysearch](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [贪心算法 | greedyalgorithm](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [哈希表 | hashmap](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [数学 | math](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [排序 | sort](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
-- [双指针 | twopoint](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
+- [数组 | array](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/array)
+- [数组列表 | arraylist](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/arraylist)
+- [回溯 | backtracking](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/backtracking)
+- [二分搜索 | binarysearch](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/binarysearch)
+- [贪心算法 | greedyalgorithm](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/greedyalgorithm)
+- [哈希表 | hashmap](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/hashmap)
+- [数学 | math](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/math)
+- [排序 | sort](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/sort)
+- [双指针 | twopoint](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/twopoint)
 
 <br>
 
 ## :memo: 中等(medium)
 
-- [数组 | array](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
+- [数组 | array](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/array)
 - [回溯 | backtracking](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
 - [广度优先遍历 | bfs](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
 - [二分搜索 | binarysearch](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
@@ -52,6 +52,6 @@ all strive for the early realization of financial freedom.
 
 ### 反馈交流
 
-发现任何问题或者错误，欢迎各位小伙伴们批评指正一起探讨，联系方式：soyellowjack@gmail.com
+发现任何问题或者错误，欢迎各位小伙伴们一起探讨和批评指正，联系方式：soyellowjack@gmail.com
 
 If you find any problems or errors, Sincerely invite you to criticize and discuss with me. Contact: soyellowjack@gmail.com
