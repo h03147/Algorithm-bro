@@ -9,5 +9,6 @@ all strive for the early realization of financial freedom.
 
 | 简单题&nbsp; | 操作系统 | 网络&nbsp;|
 | :----: | :----: | :---: |
+| esay | medium | hard |
 
 <br>
