@@ -39,7 +39,7 @@ public class PacificAtlantic417 {
         // 从左边缘开始dfs所有能流通到太平洋的大陆板块，从右边缘大陆板块开始dfs所有能流通到大西洋的大陆板块
         for(int i = 0; i < row; ++i) {
             dfs(i, 0, canReachPacific);
-            dfs(i, row - 1, canReachAtlantic);
+            dfs(i, col - 1, canReachAtlantic);
         }
 
         // 从上边缘开始dfs所有能流通到太平洋的大陆板块，从下边缘大陆板块开始dfs所有能流通到大西洋的大陆板块
