@@ -49,6 +49,7 @@ all strive for the early realization of financial freedom.
 - [广度优先遍历 | bfs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/bfs)
 - [队列 | queue](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/queue)
 - [并查集 | ufs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/ufs)
+- [回溯 | backtracking](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/backtracking)
 
 <br>
 
