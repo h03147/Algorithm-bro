@@ -57,6 +57,6 @@ all strive for the early realization of financial freedom.
 
 ### 反馈交流
 
-发现任何问题或者错误，欢迎各位小伙伴们一起探讨和批评指正，联系方式：soyellowjack@gmail.com
+发现任何错误或者问题，欢迎各位小伙伴们一起探讨和批评指正，联系方式：soyellowjack@gmail.com
 
 If you find any problems or errors, Sincerely invite you to criticize and discuss with me. Contact: soyellowjack@gmail.com
