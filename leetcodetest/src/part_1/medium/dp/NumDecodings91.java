@@ -8,7 +8,7 @@ public class NumDecodings91 {
 
     public int numDecodings(String s) {
         int n = s.length();
-        int[] dp = new int[n]; // 到当前数字时的解码种数
+        int[] dp = new int[n]; // 存储当前数字时的解码种数
         dp[0] = 1; // 没有实际意义，只是一种情况
         if(s.charAt(0) == '0') {
             return 0;
