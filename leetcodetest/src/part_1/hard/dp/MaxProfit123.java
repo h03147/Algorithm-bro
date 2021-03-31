@@ -4,6 +4,7 @@ public class MaxProfit123 {
 
     public static void main(String[] args) {
         int[] prices = {3,3,5,0,0,3,1,4};
+        // 打印输出
         System.out.println(new MaxProfit123().maxProfit(prices));
     }
 
