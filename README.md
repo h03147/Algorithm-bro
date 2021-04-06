@@ -41,6 +41,7 @@ all strive for the early realization of financial freedom.
 - [贪心算法 | greddyalgorithm](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/greedyalgorithm)
 - [排序 | sort](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/sort)
 - [双指针 | twopoint](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/twopoint)
+- [数学 | math](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/math)
 - [并查集 | ufs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/ufs)
 - [动态规划 | dp](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/dp)
 
