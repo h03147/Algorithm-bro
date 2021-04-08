@@ -27,6 +27,7 @@ all strive for the early realization of financial freedom.
 - [排序 | sort](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/sort)
 - [双指针 | twopoint](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/twopoint)
 - [动态规划 | dp](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/dp)
+- [链表 | dp](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/linkedlist)
 
 <br>
 
