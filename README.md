@@ -45,6 +45,7 @@ all strive for the early realization of financial freedom.
 - [数学 | math](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/math)
 - [并查集 | ufs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/ufs)
 - [动态规划 | dp](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/dp)
+- [链表 | dp](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/linkedlist)
 
 <br>
 
