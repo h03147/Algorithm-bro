@@ -30,6 +30,7 @@ all strive for the early realization of financial freedom.
 - [链表 | linkedlist](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/linkedlist)
 - [树 | tree](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/tree)
 - [栈和队列 | stackandqueue](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/stackandqueue)
+- [字符串 | string](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/string)
 
 <br>
 
