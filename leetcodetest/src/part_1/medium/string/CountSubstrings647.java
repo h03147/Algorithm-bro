@@ -1,4 +1,4 @@
-package part_1.easy.string;
+package part_1.medium.string;
 
 public class CountSubstrings647 {
 
