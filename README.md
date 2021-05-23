@@ -53,6 +53,7 @@ all strive for the early realization of financial freedom.
 - [树 | tree](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/tree)
 - [栈和队列 | stackandqueue](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/stackandqueue)
 - [字符串 | string](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/string)
+- [数组和矩阵 | arrayandmatrix](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/arrayandmatrix)
 
 <br>
 
