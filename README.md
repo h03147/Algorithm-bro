@@ -56,6 +56,7 @@ all strive for the early realization of financial freedom.
 - [字符串 | string](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/string)
 - [数组和矩阵 | arrayandmatrix](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/arrayandmatrix)
 - [图 | graph](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/medium/graph)
+- [位运算 | bitwiseoperator](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/memium/bitwiseoperator)
 
 <br>
 
