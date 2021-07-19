@@ -19,8 +19,8 @@ public class IsBalanced110 {
     }
 
     private int maxDepth(TreeNode root) {
-        // 如果当前节点作为根节点为空了，就说明当前路径到底了该返回了
-        if(root == null) {
+        // 如果当前节点作为根节点为空了，就说明当前路径到底了该返回了或者是当前已经非平衡了，无需继续dfs
+        if(root == null || !result) {
             return 0;
         }
         // 找到当前节点为根节点时其左子树的高度
