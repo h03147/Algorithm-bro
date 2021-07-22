@@ -10,7 +10,7 @@ public class MaxProfit121 {
     public static int maxProfit(int[] prices) {
         int size = prices.length;
 
-        // 初始情况，取第一个交易日股票价格为最小买入价格
+        // 初始情况，取第一个交易日股票价格为最小买入价格 复习加一
         int min_buy = prices[0];
         int max_profit = 0;
 
