@@ -69,6 +69,7 @@ all strive for the early realization of financial freedom.
 - [回溯 | backtracking](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/backtracking)
 - [动态规划 | dp](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/dp)
 - [栈和队列 | stackandqueue](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/stackandqueue)
+- [排序 | sort](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/sort)
 
 <br>
 
