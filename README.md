@@ -33,6 +33,7 @@ all strive for the early realization of financial freedom.
 - [字符串 | string](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/string)
 - [数组和矩阵 | arrayandmatrix](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/arrayandmatrix)
 - [位运算 | bitwiseoperator](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/bitwiseoperator)
+- [其他 | other](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/easy/other)
 
 <br>
 
