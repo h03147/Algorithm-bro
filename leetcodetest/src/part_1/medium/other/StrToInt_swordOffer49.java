@@ -15,7 +15,8 @@ public class StrToInt_swordOffer49 {
                 return 0;
             ret = ret * 10 + (c - '0');
         }
-        return isNegative ? -ret : ret;
+        return isNegative ?
+                -ret : ret;
     }
 
 }
