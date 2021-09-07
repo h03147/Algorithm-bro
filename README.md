@@ -64,6 +64,7 @@ all strive for the early realization of financial freedom.
 
 ## :watermelon: 困难(hard) 
 
+- [数组 | array](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/array)
 - [广度优先遍历 | bfs](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/bfs)
 - [树 | tree](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/tree)
 - [队列 | queue](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/queue)
@@ -71,7 +72,6 @@ all strive for the early realization of financial freedom.
 - [回溯 | backtracking](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/backtracking)
 - [动态规划 | dp](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/dp)
 - [栈和队列 | stackandqueue](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/stackandqueue)
-- [字符串 | string](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/string)
 - [排序 | sort](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/sort)
 - [数学 | math](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/math)
 - [其他 | other](https://github.com/h03147/Algorithm-bro/tree/main/leetcodetest/src/part_1/hard/other)
