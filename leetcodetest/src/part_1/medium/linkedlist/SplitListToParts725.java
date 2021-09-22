@@ -6,7 +6,7 @@ public class SplitListToParts725 {
         int N = 0;
         ListNode cur = root;
         // 先计算出当前链表的长度，注意这里判断条件是为空的时候才停止也就是要跳到结尾不为空节点
-        // 的下一个位置null才结束，故 N = root.size() + 1;
+        // 的下一个位置null才结束，故 N = root.size() + 1; 复习一遍
         while(cur != null) {
             N++;
             cur = cur.next;
